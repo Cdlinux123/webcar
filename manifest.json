@@ -1,0 +1,51 @@
+
+    {
+        "name": "Applicacioncita PWA",
+        "short_name": "Appcita",
+        "description": "Applicacioncita de prueba.",
+        "start_url": "/index.html",
+        "display": "standalone",
+        "background_color": "#054245",
+        "theme_color": "#054245",
+        "lang" : "es-MX",
+        "scope": "./", 
+        "icons": [
+          {
+            "src": "images/favicon/vehicle_11668721.png",
+            "sizes": "16x16",
+            "type": "image/png"
+          },
+          {
+            "src": "images/favicon/vehicle_11668721(1).png",
+            "sizes": "24x24",
+            "type": "image/png"
+          },
+          {
+            "src": "images/favicon/vehicle_11668721(2).png",
+            "sizes": "32x32",
+            "type": "image/png"
+          },
+          {
+            "src": "images/favicon/vehicle_11668721(3).png " ,
+            "sizes": "64x64",
+            "type": "image/png"
+          },
+          {
+            "src": "images/favicon/vehicle_11668721(5).png",
+            "sizes": "128x128",
+            "type": "image/png"
+          },
+          {
+            "src": "images/favicon/vehicle_11668721(6).png",
+            "sizes": "256x256",
+            "type": "image/png"
+          },
+          {
+            "src": "images/favicon/vehicle_11668721(7).png",
+            
+            "sizes": "512x512",
+            "type": "image/png"
+          }
+
+    ]
+}
